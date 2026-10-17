@@ -46,6 +46,7 @@ const projects = [
       'A personal portfolio built to present projects, technical strengths, and career goals.',
     tech: ['React', 'JavaScript', 'CSS'],
     number: '05',
+    link:'https://portfolio-i176.onrender.com/',
   },
 ];
 
