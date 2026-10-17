@@ -21,8 +21,8 @@ const projects = [
     description:
       'A blogging platform with authentication, content creation, editing, and post management.',
     tech: ['Node.js', 'Express', 'MongoDB'],
-    number: '02',
-    link: 'https://blog-app-1-dx1c.onrender.com/'
+    number: '02', 
+    link:'https://blog-app-1-dx1c.onrender.com/',
   },
   {
     title: 'Real-time Chat App',
@@ -30,7 +30,7 @@ const projects = [
       'A live messaging experience with authenticated users and real-time communication.',
     tech: ['React', 'Node.js', 'Socket.io', 'MongoDB'],
     number: '03',
-    link: 'https://chat-9zmmjmi30-ashokjajoter.vercel.app/'
+    link: 'https://chat-9zmmjmi30-ashokjajoter.vercel.app/',
   },
   {
     title: 'e-Commerce Platform',
@@ -39,7 +39,6 @@ const projects = [
     tech: ['React', 'JavaScript', 'CSS', 'APIs'],
     number: '04',
     link: 'https://ecommapp-fwxlcw1oh-ashokjajoter.vercel.app/',
-
   },
   {
     title: 'Portfolio Website',
@@ -298,7 +297,7 @@ function App() {
               </a>
               
             <a
-            href="https://www.facebook.com/share/19f2VxL3qG"
+            href="https://www.facebook.com/share/1MCfCNcxGd/"
             target="_blank"
             rel="noreferrer"
             aria-label="Facebook"
