@@ -120,7 +120,7 @@ function App() {
                 <a className="button button-primary" href="#projects">
                   Explore my work <span aria-hidden="true">↗</span>
                 </a>
-                <a className="button button-ghost" href="/public/Ashok_resume.pdf" download="Ashok_resume.pdf">
+                <a className="button button-ghost" href="/Ashok_resume.pdf" download="Ashok_resume.pdf">
                   Download résumé <span aria-hidden="true">↓</span>
                 </a>
               </div>
